@@ -22,4 +22,3 @@ steps:
   inputs:
     type: 'FilePath'
     scriptPath: 'fib.sh'
-    args: '5'
